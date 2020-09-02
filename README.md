@@ -1,6 +1,6 @@
 # puerts-ts-start
 
-一键打包你的 puerts 代码。
+一键打包你的 puerts 代码，生成一个 js 文件（而不是一堆）。
 
 ## 用法
 
